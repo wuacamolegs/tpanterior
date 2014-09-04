@@ -1,0 +1,197 @@
+[INFO] 08:38:23:780 UMV/(8997:8999): Se conecto el kernel con socket 5
+[INFO] 08:38:25:539 UMV/(8997:8999): Se conecto un cpu con socket 6
+[INFO] 08:38:27:780 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:27:780 UMV/(8997:9003): Se solicita crear un segmento del programa 8 con tamanio 300
+[INFO] 08:38:27:780 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:27:780 UMV/(8997:9003): Se solicita crear un segmento del programa 8 con tamanio 52
+[INFO] 08:38:27:781 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:27:781 UMV/(8997:9003): Se solicita crear un segmento del programa 8 con tamanio 40
+[INFO] 08:38:27:781 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:27:781 UMV/(8997:9003): Se solicita enviar bytes al programa 8, base 6202, desde 0, tamanio 52
+[INFO] 08:38:27:781 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:27:781 UMV/(8997:9003): Se solicita enviar bytes al programa 8, base 4625, desde 0, tamanio 40
+[INFO] 08:38:27:781 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:27:782 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 4625, desde 0, tamanio 8
+[INFO] 08:38:27:820 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:27:820 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 6202, desde 6, tamanio 16
+[INFO] 08:38:27:859 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:27:859 UMV/(8997:9011): Se solicita enviar bytes al programa 8, base 8973, desde 0, tamanio 5
+[INFO] 08:38:27:859 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:27:860 UMV/(8997:9011): Se solicita enviar bytes al programa 8, base 8973, desde 5, tamanio 5
+[INFO] 08:38:28:860 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:28:861 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 4625, desde 8, tamanio 8
+[INFO] 08:38:28:899 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:28:900 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 6202, desde 22, tamanio 7
+[INFO] 08:38:28:939 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:28:940 UMV/(8997:9011): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:38:29:940 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:29:941 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 4625, desde 16, tamanio 8
+[INFO] 08:38:29:979 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:29:980 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 6202, desde 29, tamanio 7
+[INFO] 08:38:30:19 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:30:19 UMV/(8997:9011): Se solicita enviar bytes al programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:38:31:20 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:31:20 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 8973, desde 0, tamanio 10
+[INFO] 08:38:31:59 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:31:59 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 4625, desde 24, tamanio 8
+[INFO] 08:38:31:100 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:31:100 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 6202, desde 36, tamanio 12
+[INFO] 08:38:31:139 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:31:139 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:38:31:179 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:31:179 UMV/(8997:9011): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:38:32:179 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:32:180 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 4625, desde 32, tamanio 8
+[INFO] 08:38:32:219 UMV/(8997:9011): Llego una operacion del cpu 6
+[TRACE] 08:38:32:220 UMV/(8997:9011): Se solicitan los bytes del programa 8, base 6202, desde 48, tamanio 4
+[INFO] 08:38:33:301 UMV/(8997:9003): Llego una operacion del kernel
+[TRACE] 08:38:33:301 UMV/(8997:9003): Se solicita destruir los segmentos del programa 8
+[INFO] 08:38:34:242 UMV/(8997:9011): Se desconecto el cpu 6
+[TRACE] 08:38:34:242 UMV/(8997:9011): Termine conexion con el cpu 6
+[INFO] 08:41:00:988 UMV/(9085:9087): Se conecto el kernel con socket 5
+[INFO] 08:41:05:788 UMV/(9085:9087): Se conecto un cpu con socket 6
+[INFO] 08:41:09:325 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:09:325 UMV/(9085:9091): Se solicita crear un segmento del programa 8 con tamanio 300
+[INFO] 08:41:09:325 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:09:325 UMV/(9085:9091): Se solicita crear un segmento del programa 8 con tamanio 52
+[INFO] 08:41:09:326 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:09:326 UMV/(9085:9091): Se solicita crear un segmento del programa 8 con tamanio 40
+[INFO] 08:41:09:327 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:09:327 UMV/(9085:9091): Se solicita enviar bytes al programa 8, base 6202, desde 0, tamanio 52
+[INFO] 08:41:09:327 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:09:327 UMV/(9085:9091): Se solicita enviar bytes al programa 8, base 4625, desde 0, tamanio 40
+[INFO] 08:41:09:327 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:09:327 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 4625, desde 0, tamanio 8
+[INFO] 08:41:09:368 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:09:368 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 6202, desde 6, tamanio 16
+[INFO] 08:41:09:408 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:09:408 UMV/(9085:9099): Se solicita enviar bytes al programa 8, base 8973, desde 0, tamanio 5
+[INFO] 08:41:09:408 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:09:408 UMV/(9085:9099): Se solicita enviar bytes al programa 8, base 8973, desde 5, tamanio 5
+[INFO] 08:41:10:409 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:10:409 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 4625, desde 8, tamanio 8
+[INFO] 08:41:10:448 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:10:448 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 6202, desde 22, tamanio 7
+[INFO] 08:41:10:489 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:10:489 UMV/(9085:9099): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:41:11:490 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:11:490 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 4625, desde 16, tamanio 8
+[INFO] 08:41:11:527 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:11:527 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 6202, desde 29, tamanio 7
+[INFO] 08:41:11:567 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:11:567 UMV/(9085:9099): Se solicita enviar bytes al programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:41:12:568 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:12:569 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 8973, desde 0, tamanio 10
+[INFO] 08:41:12:607 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:12:607 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 4625, desde 24, tamanio 8
+[INFO] 08:41:12:647 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:12:647 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 6202, desde 36, tamanio 12
+[INFO] 08:41:12:689 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:12:689 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:41:12:729 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:12:730 UMV/(9085:9099): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:41:13:730 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:13:731 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 4625, desde 32, tamanio 8
+[INFO] 08:41:13:773 UMV/(9085:9099): Llego una operacion del cpu 6
+[TRACE] 08:41:13:773 UMV/(9085:9099): Se solicitan los bytes del programa 8, base 6202, desde 48, tamanio 4
+[INFO] 08:41:14:856 UMV/(9085:9091): Llego una operacion del kernel
+[TRACE] 08:41:14:856 UMV/(9085:9091): Se solicita destruir los segmentos del programa 8
+[INFO] 08:45:22:596 UMV/(9260:9262): Se conecto el kernel con socket 5
+[INFO] 08:45:27:459 UMV/(9260:9262): Se conecto un cpu con socket 6
+[INFO] 08:45:29:884 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:29:884 UMV/(9260:9266): Se solicita crear un segmento del programa 8 con tamanio 300
+[INFO] 08:45:29:884 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:29:884 UMV/(9260:9266): Se solicita crear un segmento del programa 8 con tamanio 52
+[INFO] 08:45:29:884 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:29:884 UMV/(9260:9266): Se solicita crear un segmento del programa 8 con tamanio 40
+[INFO] 08:45:29:884 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:29:885 UMV/(9260:9266): Se solicita enviar bytes al programa 8, base 6202, desde 0, tamanio 52
+[INFO] 08:45:29:885 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:29:885 UMV/(9260:9266): Se solicita enviar bytes al programa 8, base 4625, desde 0, tamanio 40
+[INFO] 08:45:29:885 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:29:885 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 4625, desde 0, tamanio 8
+[INFO] 08:45:29:923 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:29:923 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 6202, desde 6, tamanio 16
+[INFO] 08:45:29:963 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:29:963 UMV/(9260:9274): Se solicita enviar bytes al programa 8, base 8973, desde 0, tamanio 5
+[INFO] 08:45:29:963 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:29:963 UMV/(9260:9274): Se solicita enviar bytes al programa 8, base 8973, desde 5, tamanio 5
+[INFO] 08:45:30:964 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:30:965 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 4625, desde 8, tamanio 8
+[INFO] 08:45:30:3 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:30:3 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 6202, desde 22, tamanio 7
+[INFO] 08:45:31:44 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:31:44 UMV/(9260:9274): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:45:32:46 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:32:46 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 4625, desde 16, tamanio 8
+[INFO] 08:45:32:83 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:32:83 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 6202, desde 29, tamanio 7
+[INFO] 08:45:32:123 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:32:123 UMV/(9260:9274): Se solicita enviar bytes al programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:45:33:125 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:33:125 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 8973, desde 0, tamanio 10
+[INFO] 08:45:33:164 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:33:164 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 4625, desde 24, tamanio 8
+[INFO] 08:45:33:203 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:33:203 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 6202, desde 36, tamanio 12
+[INFO] 08:45:33:244 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:33:244 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:45:33:283 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:33:283 UMV/(9260:9274): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:45:34:284 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:34:284 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 4625, desde 32, tamanio 8
+[INFO] 08:45:34:323 UMV/(9260:9274): Llego una operacion del cpu 6
+[TRACE] 08:45:34:324 UMV/(9260:9274): Se solicitan los bytes del programa 8, base 6202, desde 48, tamanio 4
+[INFO] 08:45:35:406 UMV/(9260:9266): Llego una operacion del kernel
+[TRACE] 08:45:35:406 UMV/(9260:9266): Se solicita destruir los segmentos del programa 8
+[INFO] 08:49:06:931 UMV/(9404:9406): Se conecto el kernel con socket 5
+[INFO] 08:49:09:714 UMV/(9404:9406): Se conecto un cpu con socket 6
+[INFO] 08:49:11:74 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:11:74 UMV/(9404:9410): Se solicita crear un segmento del programa 8 con tamanio 300
+[INFO] 08:49:11:76 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:11:76 UMV/(9404:9410): Se solicita crear un segmento del programa 8 con tamanio 52
+[INFO] 08:49:11:76 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:11:76 UMV/(9404:9410): Se solicita crear un segmento del programa 8 con tamanio 40
+[INFO] 08:49:11:76 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:11:76 UMV/(9404:9410): Se solicita enviar bytes al programa 8, base 6202, desde 0, tamanio 52
+[INFO] 08:49:11:76 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:11:76 UMV/(9404:9410): Se solicita enviar bytes al programa 8, base 4625, desde 0, tamanio 40
+[INFO] 08:49:11:77 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:11:77 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 4625, desde 0, tamanio 8
+[INFO] 08:49:11:115 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:11:115 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 6202, desde 6, tamanio 16
+[INFO] 08:49:11:155 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:11:155 UMV/(9404:9418): Se solicita enviar bytes al programa 8, base 8973, desde 0, tamanio 5
+[INFO] 08:49:11:155 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:11:155 UMV/(9404:9418): Se solicita enviar bytes al programa 8, base 8973, desde 5, tamanio 5
+[INFO] 08:49:12:156 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:12:156 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 4625, desde 8, tamanio 8
+[INFO] 08:49:12:195 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:12:195 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 6202, desde 22, tamanio 7
+[INFO] 08:49:12:235 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:12:235 UMV/(9404:9418): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:49:13:235 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:13:236 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 4625, desde 16, tamanio 8
+[INFO] 08:49:13:275 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:13:275 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 6202, desde 29, tamanio 7
+[INFO] 08:49:13:315 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:13:315 UMV/(9404:9418): Se solicita enviar bytes al programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:49:14:316 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:14:317 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 8973, desde 0, tamanio 10
+[INFO] 08:49:14:356 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:14:356 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 4625, desde 24, tamanio 8
+[INFO] 08:49:14:396 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:14:396 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 6202, desde 36, tamanio 12
+[INFO] 08:49:14:436 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:14:436 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 8973, desde 6, tamanio 4
+[INFO] 08:49:14:475 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:14:475 UMV/(9404:9418): Se solicita enviar bytes al programa 8, base 8973, desde 1, tamanio 4
+[INFO] 08:49:15:475 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:15:475 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 4625, desde 32, tamanio 8
+[INFO] 08:49:15:515 UMV/(9404:9418): Llego una operacion del cpu 6
+[TRACE] 08:49:15:515 UMV/(9404:9418): Se solicitan los bytes del programa 8, base 6202, desde 48, tamanio 4
+[INFO] 08:49:16:597 UMV/(9404:9410): Llego una operacion del kernel
+[TRACE] 08:49:16:597 UMV/(9404:9410): Se solicita destruir los segmentos del programa 8
+[INFO] 08:49:22:578 UMV/(9404:9418): Se desconecto el cpu 6
+[TRACE] 08:49:22:578 UMV/(9404:9418): Termine conexion con el cpu 6
+[INFO] 08:49:22:922 UMV/(9404:9410): Llego una operacion del kernel

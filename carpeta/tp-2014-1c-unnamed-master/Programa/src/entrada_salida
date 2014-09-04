@@ -1,0 +1,6 @@
+#!./Programa
+begin
+	io LPT1 20
+	io HDD1 30
+	io LPT1 10
+end

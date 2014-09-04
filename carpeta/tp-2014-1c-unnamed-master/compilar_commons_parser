@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#Compilar Parser y Commons
+
+cd ../so-commons-library
+make clean -s
+make all -s
+sudo make install -s
+echo 'Commons Compiladas'
+echo ' '
+
+cd ../ansisop-parser/parser
+make clean -s
+make all -s
+sudo make install -s
+echo 'Parser Compilado' 
+echo ' '

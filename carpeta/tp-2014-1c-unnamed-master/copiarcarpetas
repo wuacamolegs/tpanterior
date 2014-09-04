@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#Copiar carpetas so-commons-library, ansisop-parser, tp-2014-1c-unnamed a las ip.
+echo 'IP-PC1'
+read $ip1
+echo 'IP-PC2'
+read $ip2
+echo 'IP-PC3'
+read $ip3
+
+scp -rpCq ../so-commons-library $ip1:/home/utnso 
+scp -rpCq ../so-commons-library $ip2:/home/utnso
+scp -rpCq ../so-commons-library $ip3:/home/utnso
+echo 'Commons Copiadas!'
+echo ' '
+
+scp -rpCq ../ansisop-parser $ip1:/home/utnso 
+scp -rpCq ../ansisop-parser $ip2:/home/utnso
+scp -rpCq ../ansisop-parser $ip3:/home/utnso
+echo 'Parser Copiado!'
+echo ' '
+
+scp -rpCq ../tp-2014-1c-unnamed $ip1:/home/utnso 
+scp -rpCq ../tp-2014-1c-unnamed $ip2:/home/utnso
+scp -rpCq ../tp-2014-1c-unnamed $ip3:/home/utnso
+echo 'TP Copiado!'
+echo ' '
+

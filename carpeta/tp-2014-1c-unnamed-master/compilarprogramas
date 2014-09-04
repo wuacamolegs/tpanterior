@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#Compilar Programas
+
+cd ~/tp-2014-1c-unnamed/cpu/src/
+gcc -w cpu.c -o cpu -lcommons -lpthread -lparser-ansisop
+echo 'CPU Compilada'
+echo ' '
+
+cd ~/tp-2014-1c-unnamed/kernel/src/
+gcc -w kernel.c -o kernel -lcommons -lpthread -lparser-ansisop
+echo 'Kernel Compilado' 
+echo ' '
+
+cd ~/tp-2014-1c-unnamed/Programa/src
+gcc -w Programa.c -o Programa -lcommons
+echo 'Programa Compilado. Declarar variable de entorno!'
+echo 'export ANSISOP_CONFIG=./config'
+echo ' '
+
+cd ~/tp-2014-1c-unnamed/umv/src
+gcc -w umv.c -o umv -lcommons -lpthread
+echo 'UMV Compilado'

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Editar archivo de configuración de la CPU
+
+nano ./kernel/src/config.txt
